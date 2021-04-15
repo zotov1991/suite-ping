@@ -1,7 +1,23 @@
-h1{
-  background-color: red;
-}
 div {
 margin-top: 50px;
   margin: auto;
+}
+.content{
+	margin:60px auto;
+	width:600px;
+}
+div {
+	width: auto;
+	height: 75px;
+	background-color: red;
+	text-align: center;
+	color: gold;
+	text-align-last: center;
+
+
+}
+.subaru {
+	width: 250px;
+	height: 150px;
+	margin-top: 150px;
 }
